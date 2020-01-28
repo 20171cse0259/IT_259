@@ -1,0 +1,12 @@
+<html>
+	<head>
+		<title>center tag example</title>
+	</head>
+	<body>
+		<p>here is the 1st paragraph</p>
+	<center>
+		<p>here is the 2nd paragraph</p>
+</center>
+		
+	</body>
+</html>
